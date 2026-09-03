@@ -24,11 +24,13 @@ Now i can move things back and forth without having to redo the terminal. i can 
 push push
 okay not quite
 
-##Subsection 4
+## Subsection 4
 
 terminal instructions to push from ucloud: 
 - git add -A
-- git commit -m ""
+- git commit -m "message"
 - git push
+
+**very** important not to make typos and to add a message
 
 
