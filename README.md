@@ -23,3 +23,10 @@ and so does editing again in github!
 Now i can move things back and forth without having to redo the terminal. i can just push!
 push push
 okay not quite
+
+terminal instructions to push from ucloud: 
+- git add -A
+- git commit -m ""
+- git push
+
+
