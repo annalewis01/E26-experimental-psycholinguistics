@@ -19,3 +19,7 @@ Here is a list
 editing in ucloud also works.
 
 and so does editing again in github!
+
+Now i can move things back and forth without having to redo the terminal. i can just push!
+push push
+okay not quite
